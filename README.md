@@ -33,3 +33,17 @@ https://biblemate.gospelchurch.uk/?tool=commentary&tq=AIC:::
 Traditional Chinese
 
 https://biblemate.gospelchurch.uk/?tool=commentary&tq=AICTC:::
+
+# Related Projects
+
+Analysis of Every Single Book in the Bible
+
+https://github.com/eliranwong/BibleBookStudies
+
+Summary of Every Single Chapter in the Bible
+
+https://github.com/eliranwong/BibleChapterSummaries
+
+Commentary of Every Single Verse in the Bible
+
+https://github.com/eliranwong/AI_Commentary
